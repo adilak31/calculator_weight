@@ -24,7 +24,7 @@ function App() {
     setError(false)
     setHeight("")
     setResult("")
-    //jnkjnk
+
   }
   return (
     <div className="App">
